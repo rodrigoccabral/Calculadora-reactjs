@@ -1,0 +1,10 @@
+.display  {
+    grid-column: span 4;    /*Numero de colunas a qual o display da calculadora ira ocupar.*/
+                            /*Nesse caso o display vai ocupar 4 colunas de 48px*/   
+    background-color: #0004;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    font-size: 2.1em;
+}                              
